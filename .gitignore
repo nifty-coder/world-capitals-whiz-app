@@ -1,3 +1,4 @@
+*.aab
 node_modules/
 .expo/
 dist/
